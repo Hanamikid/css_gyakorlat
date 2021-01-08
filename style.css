@@ -1,0 +1,47 @@
+/* tag szelektor */
+h1 {
+    color: #800000;
+}
+p {
+    color: #800000;
+    text-align: center;
+}
+iframe {
+    border: none
+}
+/* class szelektor */
+
+/* id szelektor */
+#fejlec{
+    background-image: url(img/fejlec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#table{
+    border: none;
+    align-items: center;
+}
+#tr1{
+    border: none;
+}
+#bal_body{
+    background-color: #E8E8E8;
+    border: none;
+}
+#menukep{
+    margin-top: 207px;
+}
+#jobb_p{
+    color: #484848;
+    text-align: left;
+}
+#jobb_oldal{
+    background-image: url(img/tartalomkep.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color: #FFFFFF;
+}
+#index{
+    background-image: url(img/hatter.jpg);
+}
+/* child szelektor*/
